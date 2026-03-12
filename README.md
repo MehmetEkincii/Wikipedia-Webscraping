@@ -37,3 +37,7 @@ How to load unstructured scraped data into a structured pandas DataFrame
 How to debug and fix common environment errors like missing modules
 
 # Output 
+![Output Preview](output_preview.png)
+
+Once all cells are run, the scraper produces a structured DataFrame with the top 50 largest
+private companies in the United States ranked by revenue.
