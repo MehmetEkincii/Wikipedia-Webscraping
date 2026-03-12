@@ -35,3 +35,5 @@ How to navigate and extract data from HTML using BeautifulSoup
 How to load unstructured scraped data into a structured pandas DataFrame
 
 How to debug and fix common environment errors like missing modules
+
+# Output 
